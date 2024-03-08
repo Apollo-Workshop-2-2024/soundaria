@@ -58,8 +58,8 @@ coprocessor:
 
 preview_persisted_queries:
   enabled: true
-  safelist:
+  safelist: 
     enabled: true
-    required_id: false
+    require_id: false
 apq:
-  enabled: true
+  enabled: false
